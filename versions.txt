@@ -1,0 +1,6 @@
+tst_frontend_version=
+tst_backend_version=
+tst_pseudo_service_version=
+acc_frontend_version=
+acc_backend_version=
+acc_pseudo_service_version=
