@@ -4,7 +4,7 @@ tst:
     version: "0.0.3"
   backend:
     url: "finalistit.azurecr.io/nunietzwanger/nnz_backend"
-    version: "1.11-70"
+    version: "1.11-72"
   frontend:
     url: "finalistit.azurecr.io/nunietzwanger/nnz_frontend"
-    version: "1.11-45"
+    version: "1.11-44"
