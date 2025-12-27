@@ -7,7 +7,7 @@ tst:
     version: "1.11-73"
   frontend:
     url: "finalistit.azurecr.io/nunietzwanger/nnz_frontend"
-    version: "1.11-45"
+    version: "1.11-46"
 acc:
   pseudoservice:
     url: "finalistit.azurecr.io/pseudoservice/ps_backend"
