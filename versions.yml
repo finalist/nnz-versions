@@ -1,13 +1,13 @@
 tst:
   pseudoservice:
     url: "finalistit.azurecr.io/pseudoservice/ps_backend"
-    version: "0.0.4"
+    version: "0.0.3"
   backend:
     url: "finalistit.azurecr.io/nunietzwanger/nnz_backend"
-    version: "1.11-73"
+    version: "1.11-72"
   frontend:
     url: "finalistit.azurecr.io/nunietzwanger/nnz_frontend"
-    version: "1.11-46"
+    version: "1.11-44"
 acc:
   pseudoservice:
     url: "finalistit.azurecr.io/pseudoservice/ps_backend"
