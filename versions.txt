@@ -1,5 +1,5 @@
-tst_frontend_version=1.11-46
-tst_backend_version=1.11-73
+tst_frontend_version=1.11-47
+tst_backend_version=1.11-74
 tst_pseudo_service_version=0.0.4
 acc_frontend_version=1.11-44
 acc_backend_version=1.11-72
