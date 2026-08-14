@@ -14,7 +14,7 @@ acc:
     version: "1.2"
   backend:
     url: "finalistit.azurecr.io/nunietzwanger/nnz_backend"
-    version: "1.11-97"
+    version: "1.11-98"
   frontend:
     url: "finalistit.azurecr.io/nunietzwanger/nnz_frontend"
     version: "1.11-69"    
